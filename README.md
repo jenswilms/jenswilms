@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## About me
+Techie at heart, business in spirit, philosopher in mind. Driven by curiosity and a desire to change the world, I get people enthusiastic about an idea, connect them and build (tech-oriented) systems that make those ideas happen. I am specialized in organizational culture and seeing the world through human systems of power and influence, but have the luck of being a 13-year old self-taught coder. Having been through the hardships of founding (and failing) a startup, I understand the various aspects of business and can add the most value where multiple disciplines intersect. Now, I am looking for the next best place where I can leave an impact on the world.
+
+## Projects I have worked on 
+# THYNK
+Co-founder & CEO
+
+
+
 <!--
 **jenswilms/jenswilms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

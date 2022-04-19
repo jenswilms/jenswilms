@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 ## About me
-Techie at heart, business in spirit, philosopher in mind. Driven by curiosity and a desire to change the world, I get people enthusiastic about an idea, connect them and build (tech-oriented) systems that make those ideas happen. I am specialized in organizational culture and seeing the world through human systems of power and influence, but have the luck of being a 13-year old self-taught coder. Having been through the hardships of founding (and failing) a startup, I understand the various aspects of business and can add the most value where multiple disciplines intersect. Now, I am looking for the next best place where I can leave an impact on the world.
+❤️ Techie at heart
+⚡ Entrepreneur in spirit
+🧠 Philosopher in mind
+
+💻 Started coding when I was 13
+🚀 Building companies and project ever since
+🔍 Now, looking for the next project or organization to work for
 
 ## Projects I have worked on 
 ### THYNK
@@ -14,18 +20,18 @@ DB: PostgreSQL
 Website: https://thynkapp.com
 
 
-### Ao Nang Boatservice
+### [Ao Nang Boatservice] (https://github.com/jenswilms/aonang-boat)
 I was on a holiday in Krabi, Thailand. What's special about Krabi is all the neighbouring islands that can only be reached by boat. In Krabi, you have one boat service: you have to go to the service desk, say where you want to go and wait until a minimum amount of people show up. After 2 days of long waiting (especially since I was traveling alone), I got fed up with the inefficiency and spent about a day locked up in my hotel room to build a software for them; people could sign up their prefered destination and time and find other popular times.
 
 Website: https://aonang-boatservice.netlify.app/
 
-### Digital Resume
+### [Digital Resume] (https://github.com/jenswilms/digital-resume)
 Instead of making a PDF, I digitalized my resume. The data is stored with the use of 'labels' so in the end only to show relevant experience points. This feature is not yet implemented. Data is transformed in a way that would be logical for a back-end, yet for simplicity's sake this is done front-end right now.
 
 Website: https://resume-jens-wilms.netlify.app/
 
 
-### Youtube Wrapped
+### [Youtube Wrapped] (https://github.com/jenswilms/youtubeWrapped)
 One of the more popular events in my social media feed is Spotify's Wrapped data at the end of the year. Thanks to the GDPR, organizations are required to give personal data. I created a simple analysis of my Youtube data using Python.
 
 <!--

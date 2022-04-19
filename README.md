@@ -25,7 +25,7 @@ Website: https://thynkapp.com
 </details>
 
 
-<details><summary>Ao Nang Boatservice</summary>
+<details><summary><h1>Ao Nang Boatservice</h1></summary>
   
 I was on a holiday in Krabi, Thailand. What's special about Krabi is all the neighbouring islands that can only be reached by boat. In Krabi, you have one boat service: you have to go to the service desk, say where you want to go and wait until a minimum amount of people show up. After 2 days of long waiting (especially since I was traveling alone), I got fed up with the inefficiency and spent about a day locked up in my hotel room to build a software for them; people could sign up their prefered destination and time and find other popular times.
 

@@ -24,6 +24,10 @@ Instead of making a PDF, I digitalized my resume. The data is stored with the us
 
 Website: https://resume-jens-wilms.netlify.app/
 
+
+### Youtube Wrapped
+One of the more popular events in my social media feed is Spotify's Wrapped data at the end of the year. Thanks to the GDPR, organizations are required to give personal data. I created a simple analysis of my Youtube data using Python.
+
 <!--
 **jenswilms/jenswilms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

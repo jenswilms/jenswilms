@@ -11,7 +11,7 @@
  
 ## Projects I have worked on 
 
-<details><summary>THYNK</summary>
+<details><summary><h3>THYNK</h3></summary>
   
   
 #### Co-founder & CEO
@@ -25,25 +25,25 @@ Website: https://thynkapp.com
 </details>
 
 
-<details><summary><h1>Ao Nang Boatservice</h1></summary>
+<details><summary><h3>Ao Nang Boatservice</h3></summary>
   
 I was on a holiday in Krabi, Thailand. What's special about Krabi is all the neighbouring islands that can only be reached by boat. In Krabi, you have one boat service: you have to go to the service desk, say where you want to go and wait until a minimum amount of people show up. After 2 days of long waiting (especially since I was traveling alone), I got fed up with the inefficiency and spent about a day locked up in my hotel room to build a software for them; people could sign up their prefered destination and time and find other popular times.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenswilms/aonang-boat)
-[![Website](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://aonang-boatservice.netlify.app/)
+[![Website](https://img.shields.io/badge/website-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://aonang-boatservice.netlify.app/)
   
 </details>
 
-<details><summary>Digital Resume</summary>
+<details><summary><h3>Digital Resume</h3></summary>
   
   
 Instead of making a PDF, I digitalized my resume. The data is stored with the use of 'labels' so in the end only to show relevant experience points. This feature is not yet implemented. Data is transformed in a way that would be logical for a back-end, yet for simplicity's sake this is done front-end right now.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenswilms/digital-resume)
-[![Website](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://resume-jens-wilms.netlify.app/)
+[![Website](https://img.shields.io/badge/website-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://resume-jens-wilms.netlify.app/)
 </details>
 
-<details><summary>YouTube Wrapped</summary>
+<details><summary><h3>YouTube Wrapped</h3></summary>
     
   
 One of the more popular events in my social media feed is Spotify's Wrapped data at the end of the year. Thanks to the GDPR, organizations are required to give personal data. I created a simple analysis of my Youtube data using Python.

@@ -20,7 +20,7 @@ DB: PostgreSQL
 Website: https://thynkapp.com
 
 
-### [Ao Nang Boatservice](https://github.com/jenswilms/aonang-boat)
+### Ao Nang Boatservice [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenswilms/aonang-boat)
 I was on a holiday in Krabi, Thailand. What's special about Krabi is all the neighbouring islands that can only be reached by boat. In Krabi, you have one boat service: you have to go to the service desk, say where you want to go and wait until a minimum amount of people show up. After 2 days of long waiting (especially since I was traveling alone), I got fed up with the inefficiency and spent about a day locked up in my hotel room to build a software for them; people could sign up their prefered destination and time and find other popular times.
 
 Website: https://aonang-boatservice.netlify.app/

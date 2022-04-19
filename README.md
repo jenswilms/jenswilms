@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ## About me
-❤️ Techie at heart  
-⚡ Entrepreneur in spirit  
-🧠 Philosopher in mind  
+❤️  Techie at heart  
+⚡  Entrepreneur in spirit  
+🧠  Philosopher in mind  
   
-💻 Started coding when I was 13  
-🚀 Building companies and project ever since  
-🔍 Now, looking for the next project or organization to work for  
+💻  Started coding when I was 13  
+🚀  Building companies and project ever since  
+🔍  Now, looking for the next project or organization to work for  
  
 ## Projects I have worked on 
 

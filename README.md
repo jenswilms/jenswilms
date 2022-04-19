@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Jens
+Techie at heart, entrepreneur in spirit, and philosopher in mind. Learning junkie Driven by curiosity and a love for building cool things.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenswilms/)
+[![Website](https://img.shields.io/badge/resume-1B263B?style=for-the-badge&logo=Brave&logoColor=white)](https://resume-jens-wilms.netlify.app/)
 
 ## About me
-❤️  Techie at heart  
-⚡  Entrepreneur in spirit  
-🧠  Philosopher in mind  
-  
-💻  Started coding when I was 13  
-🚀  Building companies and project ever since  
-🔍  Now, looking for the next project or organization to work for  
+Driven by curiosity and a desire to change the world, I get people enthusiastic about an idea, connect them and build (tech-oriented) systems that make those ideas happen. I have a masters degree in organizational anthropology, founded (and failed) a startup, and started 2 other non-profits and one other business. Right now, I'm in Taiwan to study Mandarin and find my next thing.
  
 ## Projects I have worked on 
 
